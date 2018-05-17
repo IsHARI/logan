@@ -1,0 +1,12 @@
+{
+  "files": [
+    "/blender.sh"
+  ],
+  "directories": [
+  ],
+  "patterns": [
+    "wifi"
+  ],
+  "output": "~/.logan/logan.log",
+  "interval": 900
+}
